@@ -132,6 +132,34 @@ main{
        font-size:1.2rem ;
 }
 
+@media(max-width:2000px){
+
+
+    .hero-box img{
+        width: 400px;
+        height: 400px;
+    }
+
+    .forom-group{
+    font-size: 1.1rem;
+}
+
+ .forom-group input,
+.forom-group select,
+.forom-group textarea{
+    width:50;
+    height: 30px;
+     font-size: 1.0rem;
+}
+ .hero-content{
+        font-size: 1.1rem;
+
+        h2{
+            font-size: 1.2rem;
+        }
+}
+}
+
 @media (max-width: 690px){
     nav{
         display: block;
