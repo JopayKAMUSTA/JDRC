@@ -39,11 +39,12 @@ function validate(){
               }
 
               else{
-                 alert("Sumbitted")
-                 return;
             
               }
               
+              
+          
+          
               
             }
       
